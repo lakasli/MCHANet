@@ -1,5 +1,7 @@
 # MCHANet
-<MCHANet: Multi-channel hybrid attention networks for Automatic Modulation Recognition> Publish the code after publication\
+<MCHANet: Multi-channel hybrid attention networks for Automatic Modulation Recognition> \
+submit on July 28, 2024\
+
 I/Q modulated signal classification network\
 Experimental environment: Python 3.12, PyTorch 2.30, hardware conditions include a Xeon(R) Platinum 8474C CPU and an NVIDIA GeForce RTX 4090D GPU.\
 MCHANet.py is a network architecture code based on pytorch architecture\
